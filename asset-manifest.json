@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lionTask/static/css/main.635bc61e.chunk.css",
+    "main.js": "/lionTask/static/js/main.4c207ed2.chunk.js",
+    "main.js.map": "/lionTask/static/js/main.4c207ed2.chunk.js.map",
+    "runtime~main.js": "/lionTask/static/js/runtime~main.1aaf5789.js",
+    "runtime~main.js.map": "/lionTask/static/js/runtime~main.1aaf5789.js.map",
+    "static/js/2.ec987513.chunk.js": "/lionTask/static/js/2.ec987513.chunk.js",
+    "static/js/2.ec987513.chunk.js.map": "/lionTask/static/js/2.ec987513.chunk.js.map",
+    "index.html": "/lionTask/index.html",
+    "precache-manifest.c87660170b22663f44db892fba857830.js": "/lionTask/precache-manifest.c87660170b22663f44db892fba857830.js",
+    "service-worker.js": "/lionTask/service-worker.js",
+    "static/css/main.635bc61e.chunk.css.map": "/lionTask/static/css/main.635bc61e.chunk.css.map"
+  }
+}
