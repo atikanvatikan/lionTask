@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lionTask/precache-manifest.c87660170b22663f44db892fba857830.js"
+  "/lionTask/precache-manifest.d7768a2e880b21ace680bd705bc3376d.js"
 );
 
 self.addEventListener('message', (event) => {
